@@ -1,5 +1,0 @@
-D:\快盘\huxiaozhong\huxiaozhong\JqueryProjectMVC\bin\JqueryProjectMVC.dll
-D:\快盘\huxiaozhong\huxiaozhong\JqueryProjectMVC\bin\JqueryProjectMVC.pdb
-D:\快盘\huxiaozhong\huxiaozhong\JqueryProjectMVC\obj\Debug\ResolveAssemblyReference.cache
-D:\快盘\huxiaozhong\huxiaozhong\JqueryProjectMVC\obj\Debug\JqueryProjectMVC.dll
-D:\快盘\huxiaozhong\huxiaozhong\JqueryProjectMVC\obj\Debug\JqueryProjectMVC.pdb
